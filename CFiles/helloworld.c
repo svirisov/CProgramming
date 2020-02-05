@@ -3,7 +3,7 @@
 int main (void) {
 //This is the main function
 /*
-	These lines print out 
+	These lines print out
 	'Hello World!'
 	and
 	'My name is Stanislav.'
