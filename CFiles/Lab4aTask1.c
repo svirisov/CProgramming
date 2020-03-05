@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 int main(void){
   float input = 0;
